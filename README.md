@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SahanDinusha
-- 👀 I’m interested in C and Java .
+- 👀 I’m interested in C and Java and web designing.
 
 
 <!---
